@@ -1,0 +1,74 @@
+.template-label {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.callout .panel {
+  background: #ECF8FF;
+  border-color: #b9e5ff;
+}
+
+.header {
+  background: #313239;
+}
+
+.footer .wrapper {
+  background: #ebebeb;
+}
+
+.footer h5 {
+  padding-bottom: 10px;
+}
+
+table.columns .text-pad {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+table.columns .left-text-pad {
+  padding-left: 10px;
+}
+
+table.columns .right-text-pad {
+  padding-right: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+
+  table[class="body"] .right-text-pad {
+    padding-left: 10px !important;
+  }
+
+  table[class="body"] .left-text-pad {
+    padding-right: 10px !important;
+  }
+}
+.body {
+    background-color: #DADFE1;
+    padding-top: 0px;
+    background-image: url("http://www.game-leap.com/images/fp-fold2/f2-repeat.png");
+    background-position: top left;
+    background-repeat: repeat;
+    font-family: 'Lato', sans-serif !important;    
+}
+.video-container {
+    display: inline-block;
+    padding-left: 8px;
+    min-height: 250px;
+}
+.video-title {
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.video-title:hover {
+    color: #008ED1;
+}
+.video-description {
+    display: block;
+    margin-top: -10px;
+    background-color: white;
+    padding: 10px 5px 5px 5px;
+}

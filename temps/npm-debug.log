@@ -1,0 +1,450 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.11.2
+3 info using node@v0.12.5
+4 verbose readDependencies loading dependencies from C:\Users\ZerefeL\Desktop\temps\package.json
+5 verbose install where, deps [ 'C:\\Users\\ZerefeL\\Desktop\\temps',
+5 verbose install   [ 'pkcs7',
+5 verbose install     'videojs-contrib-media-sources',
+5 verbose install     'videojs-swf',
+5 verbose install     'chg',
+5 verbose install     'grunt',
+5 verbose install     'grunt-concurrent',
+5 verbose install     'grunt-contrib-clean',
+5 verbose install     'grunt-contrib-concat',
+5 verbose install     'grunt-contrib-connect',
+5 verbose install     'grunt-contrib-jshint',
+5 verbose install     'grunt-contrib-uglify',
+5 verbose install     'grunt-contrib-watch',
+5 verbose install     'grunt-github-releaser',
+5 verbose install     'grunt-karma',
+5 verbose install     'grunt-open',
+5 verbose install     'grunt-protractor-runner',
+5 verbose install     'grunt-shell',
+5 verbose install     'grunt-version',
+5 verbose install     'karma',
+5 verbose install     'karma-chrome-launcher',
+5 verbose install     'karma-firefox-launcher',
+5 verbose install     'karma-ie-launcher',
+5 verbose install     'karma-opera-launcher',
+5 verbose install     'karma-phantomjs-launcher',
+5 verbose install     'karma-qunit',
+5 verbose install     'karma-safari-launcher',
+5 verbose install     'karma-sauce-launcher',
+5 verbose install     'qunitjs',
+5 verbose install     'sinon',
+5 verbose install     'video.js' ] ]
+6 verbose install where, peers [ 'C:\\Users\\ZerefeL\\Desktop\\temps', [] ]
+7 verbose installManyTop reading for lifecycle C:\Users\ZerefeL\Desktop\temps\package.json
+8 info preinstall videojs-contrib-hls@0.17.9
+9 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\chg\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\del\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-concurrent\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-clean\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-concat\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-connect\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-jshint\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-uglify\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-watch\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-github-releaser\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-karma\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-open\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-protractor-runner\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-shell\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-version\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-connect\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-imagemin\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-css\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-source\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\imagemin-pngcrush\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-chrome-launcher\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-coffee-preprocessor\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-firefox-launcher\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-html2js-preprocessor\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-ie-launcher\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-jasmine\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-opera-launcher\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-phantomjs-launcher\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-qunit\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-requirejs\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-safari-launcher\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-sauce-launcher\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-script-launcher\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\pkcs7\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\qunitjs\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\requirejs\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\sinon\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\video.js\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\videojs-contrib-media-sources\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\ZerefeL\Desktop\temps\node_modules\videojs-swf\package.json
+52 info package.json chg@0.2.0 No license field.
+53 info package.json grunt@0.4.5 No license field.
+54 info package.json grunt-concurrent@0.4.3 No license field.
+55 info package.json grunt-contrib-clean@0.4.1 No license field.
+56 info package.json grunt-contrib-connect@0.6.0 No license field.
+57 info package.json grunt-contrib-concat@0.3.0 No license field.
+58 info package.json grunt-contrib-jshint@0.6.5 No license field.
+59 info package.json grunt-contrib-uglify@0.2.7 No license field.
+60 info package.json grunt-contrib-watch@0.4.4 No license field.
+61 info package.json grunt-github-releaser@0.1.18 No license field.
+62 info package.json grunt-protractor-runner@2.1.0 No license field.
+63 info package.json grunt-open@0.2.3 No license field.
+64 info package.json grunt-version@1.0.0 No license field.
+65 info package.json karma@0.10.10 No license field.
+66 info package.json pkcs7@0.2.3 license should be a valid SPDX license expression
+67 info package.json sinon@1.10.2 No license field.
+68 info package.json video.js@4.12.15 No license field.
+69 info package.json videojs-contrib-media-sources@1.0.0 license should be a valid SPDX license expression
+70 info package.json requirejs@2.1.20 No license field.
+71 info package.json videojs-swf@4.7.5 No license field.
+72 verbose readDependencies loading dependencies from C:\Users\ZerefeL\Desktop\temps\package.json
+73 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\chg\package.json
+74 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\del\package.json
+75 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt\package.json
+76 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-concurrent\package.json
+77 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-clean\package.json
+78 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-concat\package.json
+79 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-connect\package.json
+80 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-jshint\package.json
+81 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-uglify\package.json
+82 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-contrib-watch\package.json
+83 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-github-releaser\package.json
+84 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-karma\package.json
+85 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-open\package.json
+86 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-protractor-runner\package.json
+87 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-shell\package.json
+88 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\grunt-version\package.json
+89 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp\package.json
+90 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-connect\package.json
+91 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-imagemin\package.json
+92 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-css\package.json
+93 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-source\package.json
+94 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\imagemin-pngcrush\package.json
+95 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma\package.json
+96 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-chrome-launcher\package.json
+97 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-coffee-preprocessor\package.json
+98 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-firefox-launcher\package.json
+99 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-html2js-preprocessor\package.json
+100 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-ie-launcher\package.json
+101 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-jasmine\package.json
+102 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-opera-launcher\package.json
+103 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-phantomjs-launcher\package.json
+104 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-qunit\package.json
+105 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-requirejs\package.json
+106 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-safari-launcher\package.json
+107 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-sauce-launcher\package.json
+108 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\karma-script-launcher\package.json
+109 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\pkcs7\package.json
+110 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\qunitjs\package.json
+111 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\requirejs\package.json
+112 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\sinon\package.json
+113 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\video.js\package.json
+114 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\videojs-contrib-media-sources\package.json
+115 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\videojs-swf\package.json
+116 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\chg\package.json
+117 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\chg.cmd\package.json
+118 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\grunt-open\package.json
+119 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\grunt-open.cmd\package.json
+120 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\gulp\package.json
+121 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\gulp.cmd\package.json
+122 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\karma\package.json
+123 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\karma.cmd\package.json
+124 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\pkcs7\package.json
+125 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\pkcs7.cmd\package.json
+126 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\r.js\package.json
+127 verbose targetResolver reading package data from C:\Users\ZerefeL\Desktop\temps\node_modules\.bin\r.js.cmd\package.json
+128 verbose already installed skipping grunt-contrib-concat@~0.3.0 C:\Users\ZerefeL\Desktop\temps
+129 verbose already installed skipping grunt-contrib-connect@~0.6.0 C:\Users\ZerefeL\Desktop\temps
+130 verbose already installed skipping grunt-contrib-jshint@~0.6.0 C:\Users\ZerefeL\Desktop\temps
+131 verbose already installed skipping grunt-contrib-uglify@~0.2.0 C:\Users\ZerefeL\Desktop\temps
+132 verbose already installed skipping grunt-contrib-watch@~0.4.0 C:\Users\ZerefeL\Desktop\temps
+133 verbose already installed skipping grunt-github-releaser@^0.1.17 C:\Users\ZerefeL\Desktop\temps
+134 verbose already installed skipping grunt-karma@~0.6.2 C:\Users\ZerefeL\Desktop\temps
+135 verbose already installed skipping grunt-open@0.2.3 C:\Users\ZerefeL\Desktop\temps
+136 verbose already installed skipping grunt-protractor-runner@^2.1.0 C:\Users\ZerefeL\Desktop\temps
+137 verbose already installed skipping grunt-shell@0.6.1 C:\Users\ZerefeL\Desktop\temps
+138 verbose already installed skipping grunt-version@^1.0.0 C:\Users\ZerefeL\Desktop\temps
+139 verbose already installed skipping karma@~0.10.0 C:\Users\ZerefeL\Desktop\temps
+140 verbose already installed skipping karma-chrome-launcher@~0.1.2 C:\Users\ZerefeL\Desktop\temps
+141 verbose already installed skipping karma-firefox-launcher@~0.1.3 C:\Users\ZerefeL\Desktop\temps
+142 verbose already installed skipping karma-ie-launcher@~0.1.1 C:\Users\ZerefeL\Desktop\temps
+143 verbose already installed skipping karma-opera-launcher@~0.1.0 C:\Users\ZerefeL\Desktop\temps
+144 verbose already installed skipping karma-phantomjs-launcher@^0.1.4 C:\Users\ZerefeL\Desktop\temps
+145 verbose already installed skipping karma-qunit@~0.1.1 C:\Users\ZerefeL\Desktop\temps
+146 verbose already installed skipping karma-safari-launcher@~0.1.1 C:\Users\ZerefeL\Desktop\temps
+147 verbose already installed skipping karma-sauce-launcher@~0.1.8 C:\Users\ZerefeL\Desktop\temps
+148 verbose already installed skipping qunitjs@^1.15.0 C:\Users\ZerefeL\Desktop\temps
+149 verbose already installed skipping sinon@1.10.2 C:\Users\ZerefeL\Desktop\temps
+150 verbose already installed skipping video.js@^4.12.13 C:\Users\ZerefeL\Desktop\temps
+151 verbose already installed skipping pkcs7@^0.2.2 C:\Users\ZerefeL\Desktop\temps
+152 verbose already installed skipping videojs-contrib-media-sources@^1.0.0 C:\Users\ZerefeL\Desktop\temps
+153 verbose already installed skipping videojs-swf@^4.7.0 C:\Users\ZerefeL\Desktop\temps
+154 verbose already installed skipping chg@^0.2.0 C:\Users\ZerefeL\Desktop\temps
+155 verbose already installed skipping grunt@^0.4.5 C:\Users\ZerefeL\Desktop\temps
+156 verbose already installed skipping grunt-concurrent@0.4.3 C:\Users\ZerefeL\Desktop\temps
+157 verbose already installed skipping grunt-contrib-clean@~0.4.0 C:\Users\ZerefeL\Desktop\temps
+158 silly install resolved []
+159 info build C:\Users\ZerefeL\Desktop\temps
+160 info linkStuff videojs-contrib-hls@0.17.9
+161 silly linkStuff videojs-contrib-hls@0.17.9 has C:\Users\ZerefeL\Desktop as its parent node_modules
+162 verbose linkBins videojs-contrib-hls@0.17.9
+163 verbose linkMans videojs-contrib-hls@0.17.9
+164 verbose rebuildBundles videojs-contrib-hls@0.17.9
+165 verbose rebuildBundles [ '.bin',
+165 verbose rebuildBundles   'chg',
+165 verbose rebuildBundles   'del',
+165 verbose rebuildBundles   'grunt',
+165 verbose rebuildBundles   'grunt-concurrent',
+165 verbose rebuildBundles   'grunt-contrib-clean',
+165 verbose rebuildBundles   'grunt-contrib-concat',
+165 verbose rebuildBundles   'grunt-contrib-connect',
+165 verbose rebuildBundles   'grunt-contrib-jshint',
+165 verbose rebuildBundles   'grunt-contrib-uglify',
+165 verbose rebuildBundles   'grunt-contrib-watch',
+165 verbose rebuildBundles   'grunt-github-releaser',
+165 verbose rebuildBundles   'grunt-karma',
+165 verbose rebuildBundles   'grunt-open',
+165 verbose rebuildBundles   'grunt-protractor-runner',
+165 verbose rebuildBundles   'grunt-shell',
+165 verbose rebuildBundles   'grunt-version',
+165 verbose rebuildBundles   'gulp',
+165 verbose rebuildBundles   'gulp-connect',
+165 verbose rebuildBundles   'gulp-imagemin',
+165 verbose rebuildBundles   'gulp-inline-css',
+165 verbose rebuildBundles   'gulp-inline-source',
+165 verbose rebuildBundles   'imagemin-pngcrush',
+165 verbose rebuildBundles   'karma',
+165 verbose rebuildBundles   'karma-chrome-launcher',
+165 verbose rebuildBundles   'karma-coffee-preprocessor',
+165 verbose rebuildBundles   'karma-firefox-launcher',
+165 verbose rebuildBundles   'karma-html2js-preprocessor',
+165 verbose rebuildBundles   'karma-ie-launcher',
+165 verbose rebuildBundles   'karma-jasmine',
+165 verbose rebuildBundles   'karma-opera-launcher',
+165 verbose rebuildBundles   'karma-phantomjs-launcher',
+165 verbose rebuildBundles   'karma-qunit',
+165 verbose rebuildBundles   'karma-requirejs',
+165 verbose rebuildBundles   'karma-safari-launcher',
+165 verbose rebuildBundles   'karma-sauce-launcher',
+165 verbose rebuildBundles   'karma-script-launcher',
+165 verbose rebuildBundles   'pkcs7',
+165 verbose rebuildBundles   'qunitjs',
+165 verbose rebuildBundles   'requirejs',
+165 verbose rebuildBundles   'sinon',
+165 verbose rebuildBundles   'video.js',
+165 verbose rebuildBundles   'videojs-contrib-media-sources',
+165 verbose rebuildBundles   'videojs-swf' ]
+166 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\del
+167 info build C:\Users\ZerefeL\Desktop\temps\node_modules\del
+168 info preinstall del@0.1.3
+169 info linkStuff del@0.1.3
+170 silly linkStuff del@0.1.3 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+171 verbose linkBins del@0.1.3
+172 verbose linkMans del@0.1.3
+173 verbose rebuildBundles del@0.1.3
+174 verbose rebuildBundles [ '.bin',
+174 verbose rebuildBundles   'each-async',
+174 verbose rebuildBundles   'globby',
+174 verbose rebuildBundles   'is-path-cwd',
+174 verbose rebuildBundles   'is-path-in-cwd',
+174 verbose rebuildBundles   'rimraf' ]
+175 info install del@0.1.3
+176 info postinstall del@0.1.3
+177 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\gulp
+178 info build C:\Users\ZerefeL\Desktop\temps\node_modules\gulp
+179 info preinstall gulp@3.9.0
+180 info linkStuff gulp@3.9.0
+181 silly linkStuff gulp@3.9.0 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+182 verbose linkBins gulp@3.9.0
+183 verbose link bins [ { gulp: './bin/gulp.js' },
+183 verbose link bins   'C:\\Users\\ZerefeL\\Desktop\\temps\\node_modules\\.bin',
+183 verbose link bins   false ]
+184 verbose linkMans gulp@3.9.0
+185 verbose rebuildBundles gulp@3.9.0
+186 verbose rebuildBundles [ '.bin',
+186 verbose rebuildBundles   'archy',
+186 verbose rebuildBundles   'chalk',
+186 verbose rebuildBundles   'deprecated',
+186 verbose rebuildBundles   'gulp-util',
+186 verbose rebuildBundles   'interpret',
+186 verbose rebuildBundles   'liftoff',
+186 verbose rebuildBundles   'minimist',
+186 verbose rebuildBundles   'orchestrator',
+186 verbose rebuildBundles   'pretty-hrtime',
+186 verbose rebuildBundles   'semver',
+186 verbose rebuildBundles   'tildify',
+186 verbose rebuildBundles   'v8flags',
+186 verbose rebuildBundles   'vinyl-fs' ]
+187 info install gulp@3.9.0
+188 info postinstall gulp@3.9.0
+189 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-connect
+190 info build C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-connect
+191 info preinstall gulp-connect@2.2.0
+192 info linkStuff gulp-connect@2.2.0
+193 silly linkStuff gulp-connect@2.2.0 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+194 verbose linkBins gulp-connect@2.2.0
+195 verbose linkMans gulp-connect@2.2.0
+196 verbose rebuildBundles gulp-connect@2.2.0
+197 verbose rebuildBundles [ '.bin',
+197 verbose rebuildBundles   'connect',
+197 verbose rebuildBundles   'connect-livereload',
+197 verbose rebuildBundles   'event-stream',
+197 verbose rebuildBundles   'gulp-util',
+197 verbose rebuildBundles   'tiny-lr' ]
+198 info install gulp-connect@2.2.0
+199 info postinstall gulp-connect@2.2.0
+200 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-imagemin
+201 info build C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-imagemin
+202 info preinstall gulp-imagemin@0.6.2
+203 info linkStuff gulp-imagemin@0.6.2
+204 silly linkStuff gulp-imagemin@0.6.2 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+205 verbose linkBins gulp-imagemin@0.6.2
+206 verbose linkMans gulp-imagemin@0.6.2
+207 verbose rebuildBundles gulp-imagemin@0.6.2
+208 verbose rebuildBundles [ '.bin',
+208 verbose rebuildBundles   'chalk',
+208 verbose rebuildBundles   'gulp-util',
+208 verbose rebuildBundles   'imagemin',
+208 verbose rebuildBundles   'object-assign',
+208 verbose rebuildBundles   'pretty-bytes',
+208 verbose rebuildBundles   'through2' ]
+209 info install gulp-imagemin@0.6.2
+210 info postinstall gulp-imagemin@0.6.2
+211 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-css
+212 info build C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-css
+213 info preinstall gulp-inline-css@0.2.7
+214 info linkStuff gulp-inline-css@0.2.7
+215 silly linkStuff gulp-inline-css@0.2.7 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+216 verbose linkBins gulp-inline-css@0.2.7
+217 verbose linkMans gulp-inline-css@0.2.7
+218 verbose rebuildBundles gulp-inline-css@0.2.7
+219 verbose rebuildBundles [ '.bin', 'gulp-util', 'juice2', 'through2' ]
+220 info install gulp-inline-css@0.2.7
+221 info postinstall gulp-inline-css@0.2.7
+222 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-source
+223 info build C:\Users\ZerefeL\Desktop\temps\node_modules\gulp-inline-source
+224 info preinstall gulp-inline-source@0.0.2
+225 info linkStuff gulp-inline-source@0.0.2
+226 silly linkStuff gulp-inline-source@0.0.2 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+227 verbose linkBins gulp-inline-source@0.0.2
+228 verbose linkMans gulp-inline-source@0.0.2
+229 verbose rebuildBundles gulp-inline-source@0.0.2
+230 verbose rebuildBundles [ 'gulp-util', 'inline-source', 'through2' ]
+231 info install gulp-inline-source@0.0.2
+232 info postinstall gulp-inline-source@0.0.2
+233 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\imagemin-pngcrush
+234 info build C:\Users\ZerefeL\Desktop\temps\node_modules\imagemin-pngcrush
+235 info preinstall imagemin-pngcrush@0.1.0
+236 info linkStuff imagemin-pngcrush@0.1.0
+237 silly linkStuff imagemin-pngcrush@0.1.0 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+238 verbose linkBins imagemin-pngcrush@0.1.0
+239 verbose linkMans imagemin-pngcrush@0.1.0
+240 verbose rebuildBundles imagemin-pngcrush@0.1.0
+241 verbose rebuildBundles [ '.bin',
+241 verbose rebuildBundles   'image-type',
+241 verbose rebuildBundles   'pngcrush-bin',
+241 verbose rebuildBundles   'rimraf',
+241 verbose rebuildBundles   'strip-path',
+241 verbose rebuildBundles   'tempfile' ]
+242 info install imagemin-pngcrush@0.1.0
+243 info postinstall imagemin-pngcrush@0.1.0
+244 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\karma-coffee-preprocessor
+245 info build C:\Users\ZerefeL\Desktop\temps\node_modules\karma-coffee-preprocessor
+246 info preinstall karma-coffee-preprocessor@0.1.3
+247 info linkStuff karma-coffee-preprocessor@0.1.3
+248 silly linkStuff karma-coffee-preprocessor@0.1.3 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+249 verbose linkBins karma-coffee-preprocessor@0.1.3
+250 verbose linkMans karma-coffee-preprocessor@0.1.3
+251 verbose rebuildBundles karma-coffee-preprocessor@0.1.3
+252 verbose rebuildBundles [ '.bin', 'coffee-script' ]
+253 info install karma-coffee-preprocessor@0.1.3
+254 info postinstall karma-coffee-preprocessor@0.1.3
+255 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\karma-html2js-preprocessor
+256 info build C:\Users\ZerefeL\Desktop\temps\node_modules\karma-html2js-preprocessor
+257 info preinstall karma-html2js-preprocessor@0.1.0
+258 info linkStuff karma-html2js-preprocessor@0.1.0
+259 silly linkStuff karma-html2js-preprocessor@0.1.0 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+260 verbose linkBins karma-html2js-preprocessor@0.1.0
+261 verbose linkMans karma-html2js-preprocessor@0.1.0
+262 verbose rebuildBundles karma-html2js-preprocessor@0.1.0
+263 info install karma-html2js-preprocessor@0.1.0
+264 info postinstall karma-html2js-preprocessor@0.1.0
+265 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\karma-jasmine
+266 info build C:\Users\ZerefeL\Desktop\temps\node_modules\karma-jasmine
+267 info preinstall karma-jasmine@0.1.6
+268 info linkStuff karma-jasmine@0.1.6
+269 silly linkStuff karma-jasmine@0.1.6 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+270 verbose linkBins karma-jasmine@0.1.6
+271 verbose linkMans karma-jasmine@0.1.6
+272 verbose rebuildBundles karma-jasmine@0.1.6
+273 info install karma-jasmine@0.1.6
+274 info postinstall karma-jasmine@0.1.6
+275 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\karma-requirejs
+276 info build C:\Users\ZerefeL\Desktop\temps\node_modules\karma-requirejs
+277 info preinstall karma-requirejs@0.2.2
+278 info linkStuff karma-requirejs@0.2.2
+279 silly linkStuff karma-requirejs@0.2.2 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+280 verbose linkBins karma-requirejs@0.2.2
+281 verbose linkMans karma-requirejs@0.2.2
+282 verbose rebuildBundles karma-requirejs@0.2.2
+283 info install karma-requirejs@0.2.2
+284 info postinstall karma-requirejs@0.2.2
+285 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\karma-script-launcher
+286 info build C:\Users\ZerefeL\Desktop\temps\node_modules\karma-script-launcher
+287 info preinstall karma-script-launcher@0.1.0
+288 info linkStuff karma-script-launcher@0.1.0
+289 silly linkStuff karma-script-launcher@0.1.0 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+290 verbose linkBins karma-script-launcher@0.1.0
+291 verbose linkMans karma-script-launcher@0.1.0
+292 verbose rebuildBundles karma-script-launcher@0.1.0
+293 info install karma-script-launcher@0.1.0
+294 info postinstall karma-script-launcher@0.1.0
+295 verbose rebuild bundle C:\Users\ZerefeL\Desktop\temps\node_modules\requirejs
+296 info build C:\Users\ZerefeL\Desktop\temps\node_modules\requirejs
+297 info preinstall requirejs@2.1.20
+298 info linkStuff requirejs@2.1.20
+299 silly linkStuff requirejs@2.1.20 has C:\Users\ZerefeL\Desktop\temps\node_modules as its parent node_modules
+300 verbose linkBins requirejs@2.1.20
+301 verbose link bins [ { 'r.js': './bin/r.js' },
+301 verbose link bins   'C:\\Users\\ZerefeL\\Desktop\\temps\\node_modules\\.bin',
+301 verbose link bins   false ]
+302 verbose linkMans requirejs@2.1.20
+303 verbose rebuildBundles requirejs@2.1.20
+304 info install requirejs@2.1.20
+305 info postinstall requirejs@2.1.20
+306 info install videojs-contrib-hls@0.17.9
+307 info postinstall videojs-contrib-hls@0.17.9
+308 info prepublish videojs-contrib-hls@0.17.9
+309 verbose unsafe-perm in lifecycle true
+310 info videojs-contrib-hls@0.17.9 Failed to exec prepublish script
+311 verbose stack Error: videojs-contrib-hls@0.17.9 prepublish: `if [ -z "$TRAVIS" ]; then grunt; fi`
+311 verbose stack Exit status 1
+311 verbose stack     at EventEmitter.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\lib\utils\lifecycle.js:213:16)
+311 verbose stack     at EventEmitter.emit (events.js:110:17)
+311 verbose stack     at ChildProcess.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+311 verbose stack     at ChildProcess.emit (events.js:110:17)
+311 verbose stack     at maybeClose (child_process.js:1015:16)
+311 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+312 verbose pkgid videojs-contrib-hls@0.17.9
+313 verbose cwd C:\Users\ZerefeL\Desktop\temps
+314 error Windows_NT 6.3.9600
+315 error argv "C:\\Program Files (x86)\\nodejs\\\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+316 error node v0.12.5
+317 error npm  v2.11.2
+318 error code ELIFECYCLE
+319 error videojs-contrib-hls@0.17.9 prepublish: `if [ -z "$TRAVIS" ]; then grunt; fi`
+319 error Exit status 1
+320 error Failed at the videojs-contrib-hls@0.17.9 prepublish script 'if [ -z "$TRAVIS" ]; then grunt; fi'.
+320 error This is most likely a problem with the videojs-contrib-hls package,
+320 error not with npm itself.
+320 error Tell the author that this fails on your system:
+320 error     if [ -z "$TRAVIS" ]; then grunt; fi
+320 error You can get their info via:
+320 error     npm owner ls videojs-contrib-hls
+320 error There is likely additional logging output above.
+321 verbose exit [ 1, true ]
